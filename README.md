@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Kanji
+- 🔭 I’m currently working on understanding the rM2 framebuffer
 
 <!--
 **ddvk/ddvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
